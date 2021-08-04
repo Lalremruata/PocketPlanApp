@@ -1,4 +1,4 @@
-package com.app.pocketplan;
+package com.app.pocketVisual;
 
 import android.app.Activity;
 import android.content.Context;

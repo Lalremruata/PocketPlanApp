@@ -1,9 +1,8 @@
-package com.app.pocketplan;
+package com.app.pocketVisual;
 
 import android.Manifest;
 import android.graphics.Bitmap;
 import android.os.Bundle;
-import android.os.Environment;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;

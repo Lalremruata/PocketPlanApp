@@ -18,7 +18,7 @@
         android:layout_height="80dp"
         android:background="@drawable/gradient_drawable"
         android:padding="12dp"
-        android:text="Welcome to pocket plan app"
+        android:text="Welcome to pocket visual app"
         android:textColor="#ffffff"
         android:textSize="20dp"
         android:textStyle="bold" />

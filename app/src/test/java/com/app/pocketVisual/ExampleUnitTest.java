@@ -1,4 +1,4 @@
-package com.app.pocketplan;
+package com.app.pocketVisual;
 
 import org.junit.Test;
 

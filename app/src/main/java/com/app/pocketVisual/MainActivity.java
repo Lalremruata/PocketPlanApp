@@ -1,4 +1,4 @@
-package com.app.pocketplan;
+package com.app.pocketVisual;
 
 import android.content.Intent;
 import android.os.Bundle;
